@@ -9,9 +9,6 @@ load_dotenv()
 
 API_KEY = None
 # --- LOGICA A CASCATA ROBUSTA ---
-print("Chiavi disponibili nei secrets:")
-for key in st.secrets:
-    print("-", key)
 try:
     # 1. Prova a leggere dai secrets di Streamlit (funziona in cloud)
     API_KEY = st.secrets.get("OPENAI_API_KEY")
