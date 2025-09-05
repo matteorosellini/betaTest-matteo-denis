@@ -177,7 +177,6 @@ st.set_page_config(
     page_title="Vertigo AI - Simulazione", 
     layout="wide", 
     initial_sidebar_state="collapsed", 
-    theme="light"
 )
 load_and_inject_css()
 add_review_badge()
