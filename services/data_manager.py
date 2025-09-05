@@ -12,6 +12,7 @@ MONGO_URI = None
 try:
     # 1. Prova a leggere dai secrets di Streamlit
     MONGO_URI = st.secrets.get("MONGO_CONNECTION_STRING")
+    print("Letti i segreti di mongo")
 except Exception:
     # 2. Se st.secrets non è accessibile o non esiste, ignora l'errore
     pass
