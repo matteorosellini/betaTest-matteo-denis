@@ -1,0 +1,277 @@
+[
+  {
+    "ID": 1,
+    "scartato": true,
+    "motivazione": "Ruolo troppo focalizzato su licensing, non su gestione completa del brand."
+  },
+  {
+    "ID": 2,
+    "scartato": false,
+    "motivazione": "Esperienza pertinente, anche se junior, in ambito food e branding."
+  },
+  {
+    "ID": 3,
+    "scartato": false,
+    "motivazione": "Esperienza diretta come Brand Manager, attività in linea con l'offerta."
+  },
+  {
+    "ID": 4,
+    "scartato": false,
+    "motivazione": "Esperienza completa e coerente con i requisiti richiesti."
+  },
+  {
+    "ID": 5,
+    "scartato": false,
+    "motivazione": "Esperienza completa e coerente con i requisiti richiesti."
+  },
+  {
+    "ID": 6,
+    "scartato": false,
+    "motivazione": "Esperienza junior ma pertinente, attività in linea con la posizione."
+  },
+  {
+    "ID": 8,
+    "scartato": false,
+    "motivazione": "Esperienza retail ma con forti competenze di branding e analisi."
+  },
+  {
+    "ID": 9,
+    "scartato": false,
+    "motivazione": "Esperienza completa e coerente con i requisiti richiesti."
+  },
+  {
+    "ID": 10,
+    "scartato": false,
+    "motivazione": "Esperienza diretta come Brand Manager, attività in linea con l'offerta."
+  },
+  {
+    "ID": 11,
+    "scartato": true,
+    "motivazione": "Ruolo troppo orientato al back office, non strategico sul brand."
+  },
+  {
+    "ID": 12,
+    "scartato": false,
+    "motivazione": "Esperienza in linea, gestione brand automotive rilevante."
+  },
+  {
+    "ID": 14,
+    "scartato": false,
+    "motivazione": "Esperienza completa e coerente con i requisiti richiesti."
+  },
+  {
+    "ID": 15,
+    "scartato": false,
+    "motivazione": "Esperienza senior e specifica nel food, molto pertinente."
+  },
+  {
+    "ID": 16,
+    "scartato": false,
+    "motivazione": "Esperienza completa e coerente con i requisiti richiesti."
+  },
+  {
+    "ID": 17,
+    "scartato": false,
+    "motivazione": "Esperienza junior ma pertinente, attività in linea con la posizione."
+  },
+  {
+    "ID": 18,
+    "scartato": true,
+    "motivazione": "Ruolo sales, non focalizzato su marketing e gestione brand."
+  },
+  {
+    "ID": 19,
+    "scartato": false,
+    "motivazione": "Esperienza globale, ma settore eyewear non food."
+  },
+  {
+    "ID": 20,
+    "scartato": false,
+    "motivazione": "Esperienza marketing e branding, attività in linea con l'offerta."
+  },
+  {
+    "ID": 22,
+    "scartato": false,
+    "motivazione": "Esperienza senior globale, ma settore eyewear non food."
+  },
+  {
+    "ID": 23,
+    "scartato": false,
+    "motivazione": "Esperienza senior globale, ma settore eyewear non food."
+  },
+  {
+    "ID": 24,
+    "scartato": false,
+    "motivazione": "Esperienza junior ma pertinente, settore food rilevante."
+  },
+  {
+    "ID": 25,
+    "scartato": false,
+    "motivazione": "Esperienza junior ma pertinente, attività in linea con la posizione."
+  },
+  {
+    "ID": 26,
+    "scartato": false,
+    "motivazione": "Esperienza completa e coerente con i requisiti richiesti."
+  },
+  {
+    "ID": 27,
+    "scartato": false,
+    "motivazione": "Esperienza globale in brand management, settore moda."
+  },
+  {
+    "ID": 28,
+    "scartato": false,
+    "motivazione": "Esperienza automotive, attività in linea con la posizione."
+  },
+  {
+    "ID": 29,
+    "scartato": false,
+    "motivazione": "Esperienza globale in brand management, settore food & beverage."
+  },
+  {
+    "ID": 30,
+    "scartato": false,
+    "motivazione": "Esperienza junior ma pertinente, settore integratori/cosmetici."
+  },
+  {
+    "ID": 51,
+    "scartato": true,
+    "motivazione": "Ruolo digital marketing, non brand management completo."
+  },
+  {
+    "ID": 55,
+    "scartato": true,
+    "motivazione": "Ruolo digital marketing, non brand management completo."
+  },
+  {
+    "ID": 139,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 140,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 141,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 142,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 143,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 144,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 145,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 149,
+    "scartato": false,
+    "motivazione": "Esperienza completa e coerente con i requisiti richiesti."
+  },
+  {
+    "ID": 151,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 152,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 154,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 155,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 156,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 158,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 159,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 160,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 161,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 162,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 163,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 164,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 167,
+    "scartato": true,
+    "motivazione": "Ruolo product manager, non focalizzato su brand management."
+  },
+  {
+    "ID": 168,
+    "scartato": true,
+    "motivazione": "Esperienza settore tecnologico, non food; ruolo non allineato a Brand Manager food."
+  },
+  {
+    "ID": 177,
+    "scartato": true,
+    "motivazione": "Esperienza in banca, non food; manca esperienza diretta in Brand Management."
+  },
+  {
+    "ID": 193,
+    "scartato": true,
+    "motivazione": "Ruolo strategico generale, non specifico su Brand Management o settore food."
+  },
+  {
+    "ID": 202,
+    "scartato": false,
+    "motivazione": "Esperienza diretta in branding, trade marketing e analisi mercato; profilo coerente con la posizione."
+  },
+  {
+    "ID": 211,
+    "scartato": false,
+    "motivazione": "Esperienza in trade marketing, sviluppo prodotto e analisi mercato; settore affine e ruolo pertinente."
+  }
+]
